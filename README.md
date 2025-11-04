@@ -2,7 +2,7 @@
 
 ---
 
-![Main Page](MainPage.gif)
+![HIP](HIP.png)
 
 <h4 align="center">This is the second dashboard I have developed during my Protege at Honda Malaysia for HIP Team</h4>
 
@@ -34,6 +34,8 @@ The data covers the period from **January 2020 to the present**, allowing users 
 
 ## 🏠 Main Page
 
+![Main Page](MainPage.gif)
+
 The **Main Page** acts as the central navigation hub of the **Honda Insurance Plus (HIP) Dashboard**, offering users a clear entry point to explore both the **Registration** and **Merimen** analytics sections.  
 
 This page is designed to give users a quick snapshot of the overall HIP landscape, where each category provides a high-level summary of its key performance aspects. By hovering over the respective buttons, users can preview insights related to each category such as registration trends or claim activities and easily navigate to the detailed analysis pages with a single click.  
@@ -43,7 +45,9 @@ The layout prioritizes simplicity and interactivity, ensuring a smooth transitio
 Overall, the Main Page serves as both a **dashboard overview** and a **navigation control center**, guiding users toward deeper insights while maintaining an intuitive and visually engaging interface.
 
 
-## 📄 Performance (Registration)
+## 📄 Performance (Registration) 
+
+![Performance Registration](Performance%20Reg.gif)
 
 The **Performance (Registration)** page offers a comprehensive view of **HIP customer registration trends**, enabling users to assess how the program has evolved over time. It highlights both **new and renewal registrations**, helping users understand customer acquisition and retention patterns across different years.
 
@@ -56,6 +60,8 @@ Additionally, the **Top 10 Renewal Distribution** chart ranks renewal patterns b
 The page also includes slicers for **business type**, **dealer**, **registration year**, **model**, and **year**, allowing users to interactively filter data and perform deeper, segment-specific analyses. Together, these visuals make the page a central tool for tracking HIP registration performance and customer behavior trends.
 
 ## 📄 Demography (Registration)
+
+![Demography Registration](Demography%20Reg.gif)
 
 The **Demography (Registration)** page provides a comprehensive understanding of the **HIP customer base**, allowing users to explore who the customers are and how different demographic factors influence their participation in the program.  
 
@@ -73,6 +79,8 @@ Overall, this page enables a **data-driven understanding of the HIP demographic 
 
 ## 📄 Model (Registration)
 
+![Model](Model.gif)
+
 The **Model (Registration)** page focuses on understanding the relationship between HIP participation and different **Honda car models**. It provides insights into which vehicle models attract the most HIP users and how these trends evolve over time.
 
 At the top of the page, the **Honda Touch (HT) User Distribution** pie chart illustrates the proportion of HIP customers who are also Honda Touch users. This helps identify the level of digital engagement among different car model owners and the overlap between service platform users and insurance subscribers.
@@ -87,6 +95,8 @@ Overall, this page helps stakeholders assess **model-specific engagement trends*
 
 ## 📄 Panel (Registration)
 
+![Panel](Panel.gif)
+
 The **Panel (Registration)** page provides insights into the **HIP customer distribution by insurance panel and car model**, allowing stakeholders to understand how different panels and vehicle types relate to customer registration patterns.
 
 At the center of the page, a **donut chart** visualizes the **status of HIP customers** — distinguishing between **new** and **renewal** subscriptions. This gives a quick snapshot of the balance between customer acquisition and retention.  
@@ -100,6 +110,8 @@ Interactive slicers for **business type**, **dealer**, **registration year**, an
 Overall, this page gives a **comprehensive view of the intersection between customer status, car models, and insurance panels**, supporting data-driven decisions for retention strategies, model promotions, and panel management.
 
 ## 📄 Dealer (Registration)
+
+![Dealer](Dealer.gif)
 
 The **Dealer (Registration)** page provides a detailed view of **HIP registrations at the dealer level**, offering insights into dealer performance, customer distribution, and trends over time.
 
@@ -117,6 +129,8 @@ Overall, this page enables stakeholders to **assess dealer-level performance**, 
 
 ## 📄 Service Intake (Registration)
 
+![ServiceIntake](MainPage.gif)
+
 The **Service Intake (Registration)** page provides insights into dealership service activity for HIP and non-HIP customers.  
 
 A **bar chart** displays customer activity split into New Car Registration, HIP, HIP Active Servicing, and HIP Inactive Servicing. A **bookmark button** toggles the chart to show Non-HIP customer activity, enabling comparison between the two groups.  
@@ -128,6 +142,8 @@ This page helps stakeholders evaluate HIP’s impact on service engagement and i
 
 ## 📄 Loyalist (Registration)
 
+![Loyalist](Loyalist.gif)
+
 The **Loyalist (Registration)** page provides insights into **HIP customer retention and loyalty** over time.  
 
 A **decomposition tree** visualizes HIP user movements, showing whether customers continue their subscription in subsequent years. It breaks down users by **loyalty type** and **demographic characteristics**, helping identify patterns in retention.  
@@ -138,6 +154,8 @@ This page helps stakeholders understand **customer loyalty trends**, identify re
 
 
 ## 📄 Claim Details (Merimen)
+
+![Claim Details](ClaimDetails.gif)
 
 The **Claim Details (Merimen)** page provides insights into **HIP and Non-HIP claim activities** and the distribution of claims across models, dealers, and insurance panels.  
 
@@ -152,6 +170,8 @@ This page helps stakeholders **analyze claim patterns**, monitor high-risk areas
 
 ## 📄 Demography (Merimen)
 
+![Demography Merimen](DemographyMerimen.gif)
+
 The **Demography (Merimen)** page provides insights into the **demographic profile of customers making insurance claims**, helping stakeholders understand who is filing claims and how different customer segments behave.
 
 The page visualizes **gender, race, and marital status** to show which demographic groups are most active in submitting claims. **Age category** and **occupation** bar charts reveal patterns in claim behavior across different life stages and professional backgrounds. **Income range** and **region** charts highlight how socioeconomic factors and geography influence claim activity.
@@ -162,6 +182,8 @@ Overall, this page helps stakeholders identify **trends in claim behavior**, det
 
 
 ## 📄 BP Customer Movement (Merimen)
+
+![BP Cust Movement](BP%20Cust%20Movement.gif)
 
 The **BP Customer Movement (Merimen)** page tracks the **flow of customers entering Body & Paint (BP) services** and analyzes whether they continue as HIP subscribers or not. This provides insights into **customer behavior, retention, and conversion** between cash-paying (BPC) and insurance-paying (BPI) service options.
 
@@ -180,5 +202,7 @@ Interactive slicers for **dealer, model, and year** enable filtering to specific
 Overall, this page helps stakeholders **measure the effectiveness of BP services in driving HIP retention and conversion**, providing actionable insights for targeted customer engagement and loyalty programs.
 
 ## 📄 BP Intake (Merimen)
+
+![BP Intake](BPIntake.gif)
 
 This page tracks the total BP Intake by payment type (BPI – Insurance, BPC – Cash) and splits each into HIP and Non-HIP customers. A table provides a breakdown by year, company, and individual, allowing users to monitor trends, payment contributions, and HIP adoption across the BP segment.
