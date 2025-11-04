@@ -44,6 +44,8 @@ Key elements on this page include:
 
 The **Performance (Registration)** page provides insights into the **HIP customer registration trends**, allowing users to analyze the number of **new and renewal customers** over time.
 
+This enables a **dynamic exploration of trends** and allows users to drill down into specific segments for better insights.
+
 ### 🔹 Key Visuals
 
 1. **Trend Bar Chart**
@@ -65,7 +67,46 @@ Users can **interact with the page using slicers** to refine the data according 
 - **Car model**  
 - **Year**
 
-This enables a **dynamic exploration of trends** and allows users to drill down into specific segments for better insights.
+## 📄 Demography (Registration)
+
+The **Demography (Registration)** page provides detailed insights into the **demographic profile of HIP customers**, helping users understand the composition of the customer base.
+
+This allows **dynamic exploration** of customer demographics and helps identify patterns or trends in specific segments.
+
+### 🔹 Key Visuals
+
+1. **Gender Distribution Treemap**
+   - Visualizes the proportion of **male and female** HIP customers.
+
+2. **Race Distribution Pie Chart**
+   - Shows the distribution of customers by **race**.
+
+3. **Marital Status Donut Chart**
+   - Displays the **marital status** breakdown of HIP customers.
+
+4. **Age Category Bar Chart**
+   - Identifies the **age segments** of HIP customers and their relative counts.
+
+5. **Occupation Distribution Bar Chart**
+   - Shows the number of HIP customers by **occupation**.
+
+6. **Income Range Bar Chart**
+   - Visualizes the distribution of customers across different **income brackets**.
+
+7. **Region Bar Chart**
+   - Displays HIP customer distribution across **regions**.
+
+### 🔹 Filters & Interactivity
+
+Users can **filter and interact** with the data using slicers for:  
+- **Dealer Name**  
+- **Registration Year**  
+- **Car Model**  
+- **Year**  
+
+
+
+
 
 
 
