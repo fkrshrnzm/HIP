@@ -47,7 +47,7 @@ Overall, the Main Page serves as both a **dashboard overview** and a **navigatio
 
 ## 📄 Performance (Registration) 
 
-![Performance Registration](Performance%20Reg.gif)
+![PerformanceRegistration](Performance%20Reg.gif)
 
 The **Performance (Registration)** page offers a comprehensive view of **HIP customer registration trends**, enabling users to assess how the program has evolved over time. It highlights both **new and renewal registrations**, helping users understand customer acquisition and retention patterns across different years.
 
@@ -61,7 +61,7 @@ The page also includes slicers for **business type**, **dealer**, **registration
 
 ## 📄 Demography (Registration)
 
-![Demography Registration](Demography%20Reg.gif)
+![DemographyRegistration](Demography%20Reg.gif)
 
 The **Demography (Registration)** page provides a comprehensive understanding of the **HIP customer base**, allowing users to explore who the customers are and how different demographic factors influence their participation in the program.  
 
